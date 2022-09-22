@@ -1,0 +1,144 @@
+C:\Users\new\source\repos\sijans code\sijans code\bin\sijans code.dll.config
+C:\Users\new\source\repos\sijans code\sijans code\bin\sijans code.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\sijans code.pdb
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\csc.exe
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\csc.exe.config
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\csc.rsp
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\csi.exe
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\csi.exe.config
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\csi.rsp
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.AppContext.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Console.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.IO.Compression.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Net.Http.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Net.Sockets.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.ValueTuple.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Xml.XPath.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\vbc.exe
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\vbc.exe.config
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\vbc.rsp
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\VBCSCompiler.exe
+C:\Users\new\source\repos\sijans code\sijans code\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\new\source\repos\sijans code\sijans code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\System.Web.Helpers.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\System.Web.Mvc.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\System.Web.Razor.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\System.Web.Webpages.Deployment.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\System.Web.Webpages.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\System.Web.Webpages.Razor.dll
+C:\Users\new\source\repos\sijans code\sijans code\bin\System.Web.Razor.xml
+C:\Users\new\source\repos\sijans code\sijans code\bin\System.Web.Webpages.xml
+C:\Users\new\source\repos\sijans code\sijans code\bin\System.Web.Webpages.Deployment.xml
+C:\Users\new\source\repos\sijans code\sijans code\bin\System.Web.Webpages.Razor.xml
+C:\Users\new\source\repos\sijans code\sijans code\bin\System.Web.Helpers.xml
+C:\Users\new\source\repos\sijans code\sijans code\bin\System.Web.Mvc.xml
+C:\Users\new\source\repos\sijans code\sijans code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\new\source\repos\sijans code\sijans code\obj\Debug\sijans code.csproj.AssemblyReference.cache
+C:\Users\new\source\repos\sijans code\sijans code\obj\Debug\sijans code.csproj.CoreCompileInputs.cache
+C:\Users\new\source\repos\sijans code\sijans code\obj\Debug\sijans code.csproj.CopyComplete
+C:\Users\new\source\repos\sijans code\sijans code\obj\Debug\sijans code.dll
+C:\Users\new\source\repos\sijans code\sijans code\obj\Debug\sijans code.pdb
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\sijans code.dll.config
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\sijans code.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\sijans code.pdb
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\csc.exe
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\csc.exe.config
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\csc.rsp
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\csi.exe
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\csi.exe.config
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\csi.rsp
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\Microsoft.Managed.Core.targets
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.AppContext.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Collections.Immutable.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Console.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Globalization.Calendars.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.IO.Compression.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.IO.FileSystem.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Net.Http.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Net.Sockets.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Reflection.Metadata.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.ValueTuple.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Xml.XmlDocument.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Xml.XPath.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\vbc.exe
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\vbc.exe.config
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\vbc.rsp
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\VBCSCompiler.exe
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\roslyn\VBCSCompiler.exe.config
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\Microsoft.Web.Infrastructure.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\System.Web.Helpers.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\System.Web.Mvc.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\System.Web.Razor.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\System.Web.Webpages.Deployment.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\System.Web.Webpages.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\System.Web.Webpages.Razor.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\System.Web.Razor.xml
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\System.Web.Webpages.xml
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\System.Web.Webpages.Deployment.xml
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\System.Web.Webpages.Razor.xml
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\System.Web.Helpers.xml
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\System.Web.Mvc.xml
+E:\.net\Adv-programming.net-\sijans code\sijans code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.net\Adv-programming.net-\sijans code\sijans code\obj\Debug\sijans code.csproj.AssemblyReference.cache
+E:\.net\Adv-programming.net-\sijans code\sijans code\obj\Debug\sijans code.csproj.CoreCompileInputs.cache
+E:\.net\Adv-programming.net-\sijans code\sijans code\obj\Debug\sijans code.csproj.CopyComplete
+E:\.net\Adv-programming.net-\sijans code\sijans code\obj\Debug\sijans code.dll
+E:\.net\Adv-programming.net-\sijans code\sijans code\obj\Debug\sijans code.pdb

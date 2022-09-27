@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Book";
+}
+
+<h2>Book</h2>
+
+Book:<ol>
+    
+    @foreach (var item in ViewBag.Book)
+            {
+        <li>@item</li>
+
+            }
+
+
+    </ol>

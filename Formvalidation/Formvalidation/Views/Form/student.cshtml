@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "student";
+}
+
+<h2>student</h2>
+<form action="" method="post">
+
+    <h4>Name:</h4>
+    <input type="text" name="Name" placeholder="Enter name" />@Html.ValidationMessage("Name")
+    <h4>Id:</h4>
+    <input type="text" name="ID" placeholder="Enter id" />@Html.ValidationMessage("ID")
+    <h4>Gender:</h4>
+    <input type="radio" name="Gender" id="Male" value="Male" />@Html.ValidationMessage("Gender")
+    <input type="radio" name="Gender" id="Female"  value="Female"/>@Html.ValidationMessage("Gender")
+    <h4>Email:</h4>
+    <input type="text" name="Email" placeholder="Enter email" />@Html.ValidationMessage("Email")
+    <h4>Phone:</h4>
+    <input type="text" name="Phone" placeholder="Enter phone number" />@Html.ValidationMessage("Phone")
+    <h4>Date of birth:</h4>
+    <input type="text" name="Dob" placeholder="Enter date of birth" />@Html.ValidationMessage("Dob")
+    <h4>Password:</h4>
+    <input type="text" name="pass" placeholder="Enter password" />@Html.ValidationMessage("pass")
+    <h4>Confirm password:</h4>
+    <input type="text" name="conpass" placeholder="Enter confirm password" />@Html.ValidationMessage("conpass")
+    <h4></h4>
+   
+    <input type="submit" name="Name" value="SUBMIT" class="btn btn-success"/>
+
+
+
+
+
+
+
+
+
+
+
+</form>
+

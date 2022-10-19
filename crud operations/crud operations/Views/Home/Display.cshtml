@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "Display";
+}
+
+<h2>Display</h2>
+
+
+
+<div>
+   
+      
+       
+            <style>
+                table, td {
+                    border: 3px solid black;
+                    border-collapse: collapse;
+                }
+            </style>
+            <table style="width:100%">
+                
+                <tr>
+                    <td>Id</td>                                     
+                    <td>Name</td>
+                    <td>Price</td>
+                    <td>Quantity</td>
+                    <td class="text-center" colspan="2">Action</td>
+                </tr>
+                </table>
+
+
+
+
+
+
+                <table>
+                    @foreach (var user in Model)
+                    {
+
+                     
+
+
+                        
+                            <tr>
+                            
+                                <td>@user.id</td>
+                                <td>@user.name</td>
+                                <td>@user.price</td>
+                                <td>@user.qty</td>
+                                
+
+                                <td><a href="/Home/Edit/@user.id" class="btn btn-info">Edit</a></td>
+                                <td><a href="/Home/Delete/@user.id" class="btn btn-info">Delete</a></td>
+
+
+
+                            </tr>
+                      
+                    }
+
+                </table>
+
+</div>
+

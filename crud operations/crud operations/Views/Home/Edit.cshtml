@@ -1,0 +1,29 @@
+﻿@model crud_operations.Models.Product
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+<form action="" method="post">
+
+    <table class="table table-bordered">
+        <tr>
+            <td>Name</td>
+            <td><input type="text" name="name" value="@Model.name" placeholder="Enter name " /></td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td><input type="number" name="price" value="@Model.price" placeholder="Enter price " /></td>
+        </tr>
+        <tr>
+            <td>Quantity</td>
+            <td><input type="number" name="qty" value="@Model.qty" placeholder="Enter quantity " /></td>
+        </tr>
+    </table>
+
+    <input type="submit" value="submit" />
+
+</form>
+
+

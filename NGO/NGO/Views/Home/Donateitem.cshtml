@@ -1,0 +1,69 @@
+﻿
+@{
+    ViewBag.Title = "Donateitem";
+}
+
+
+
+<h2>Donate Informations</h2>
+
+
+
+
+<div>
+
+
+
+    <style>
+        table, td {
+            border: 3px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+    <table style="width:100%">
+
+        <tr>
+            <td>Resturent Id</td>
+            <td>Resturent Name</td>
+           
+            <td>Quantity</td>
+            <td class="text-center" colspan="2">Action</td>
+        </tr>
+    </table>
+
+
+
+
+
+
+    <table>
+
+        <table style="width:100%">
+           @foreach (var user in Model)
+            {
+
+
+
+
+
+                <tr>
+
+                    <td>@user.id</td>
+                    <td>@user.name</td>
+                    
+                    <td>@user.qty</td>
+
+          
+                    
+                    <td><a href="/Home/Delete/@user.id" class="btn btn-info">Delete</a></td>
+                    
+
+
+
+                </tr>
+
+            }
+
+        </table>
+
+</div>

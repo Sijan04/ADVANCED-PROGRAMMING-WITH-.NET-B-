@@ -1,0 +1,69 @@
+﻿
+@{
+    ViewBag.Title = "Display";
+}
+
+<h2>Resturent Informations</h2>
+<tr>
+    <td><a href="/Home/Index" class="btn btn-info">BACK</a></td>
+</tr>
+
+
+
+<div>
+
+
+
+    <style>
+        table, td {
+            border: 3px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+    <table style="width:100%">
+
+        <tr>
+            <td>Resturent Id</td>
+            <td>Resturent Name</td>
+            <td>Remain Items</td>
+            <td>Quantity</td>
+            <td class="text-center" colspan="2">Action</td>
+        </tr>
+    </table>
+
+
+
+
+
+
+    <table>
+
+        <table style="width:100%">
+            @foreach (var user in Model)
+            {
+
+
+
+
+
+                <tr>
+
+                    <td>@user.id</td>
+                    <td>@user.name</td>
+                    <td>@user.food</td>
+                    <td>@user.qty</td>
+
+
+                    <td><a href="/Home/Edit/@user.id" class="btn btn-info">Edit</a></td>
+                    <td><a href="/Home/Delete/@user.id" class="btn btn-info">Delete</a></td>
+                    <td><a href="/Home/Donatee/@user.id" class="btn btn-info">Donate</a></td>
+
+
+
+                </tr>
+
+            }
+
+        </table>
+
+</div>

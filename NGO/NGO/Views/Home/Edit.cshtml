@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Items</h2>
+
+
+
+<form action="" method="post">
+
+    <table class="table table-bordered">
+        <tr>
+            <td>Resturent Name</td>
+            <td><input type="text" name="name" value="@Model.name" placeholder="Enter name " /></td>
+        </tr>
+        <tr>
+            <td>Remain food</td>
+            <td><input type="text" name="food" value="@Model.food" placeholder="Enter price " /></td>
+        </tr>
+        <tr>
+            <td>Quantity</td>
+            <td><input type="number" name="qty" value="@Model.qty" placeholder="Enter quantity " /></td>
+        </tr>
+    </table>
+
+    <input type="submit" value="submit" />
+   
+        <td><a href="/Home/Display" class="btn btn-info">Back</a></td>
+    
+
+</form>
